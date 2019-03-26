@@ -33,4 +33,6 @@ public class TestBus {
         bus.removePassenger(person2);
         assertEquals(1, bus.getPassengers());
     }
+
+
 }
