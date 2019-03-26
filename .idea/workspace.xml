@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3760031-025b-441c-ad1c-11932b57fe69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BusStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusStop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestBus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestBusStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestBusStop.java" afterDir="false" />
@@ -25,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Bus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="199">
+              <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
               <folding>
                 <element signature="e#360#361#0" expanded="true" />
                 <element signature="e#386#387#0" expanded="true" />
@@ -37,18 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="161">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding>
                 <element signature="e#256#257#0" expanded="true" />
                 <element signature="e#282#283#0" expanded="true" />
                 <element signature="e#339#340#0" expanded="true" />
                 <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestBusStop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+            <state relative-caret-position="609">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#357#358#0" expanded="true" />
@@ -86,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestBus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="318">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#231#232#0" expanded="true" />
@@ -115,11 +118,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Bus.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestPerson.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestBus.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestBusStop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bus.java" />
         <option value="$PROJECT_DIR$/src/main/java/BusStop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestBus.java" />
       </list>
     </option>
   </component>
@@ -184,7 +187,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553615406465" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553616442832" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (3)">
+  <component name="RunManager" selected="JUnit.All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (5)">
     <configuration name="All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.multipleClassLab.MultipleClassesBusLab.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -223,7 +226,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.multipleClassLab.MultipleClassesBusLab.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -231,7 +234,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.multipleClassLab.MultipleClassesBusLab.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -241,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (5)" />
+        <item itemvalue="JUnit.All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (4)" />
         <item itemvalue="JUnit.All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (3)" />
         <item itemvalue="JUnit.All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (2)" />
         <item itemvalue="JUnit.All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (1)" />
-        <item itemvalue="JUnit.All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test" />
-        <item itemvalue="JUnit.All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +287,9 @@
     <history-entry file="All_in_com_codeclan_multipleClassLab_MultipleClassesBusLab_test_(2) - 2019.03.26 at 15h 46m 59s.xml">
       <configuration name="All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (2)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_com_codeclan_multipleClassLab_MultipleClassesBusLab_test_(3) - 2019.03.26 at 15h 50m 15s.xml">
+      <configuration name="All in com.codeclan.multipleClassLab.MultipleClassesBusLab.test (3)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -300,7 +306,7 @@
       <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.25903615" />
-      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
@@ -327,10 +333,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Bus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="199">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
           <folding>
             <element signature="e#360#361#0" expanded="true" />
             <element signature="e#386#387#0" expanded="true" />
@@ -340,29 +353,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestPerson.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="161">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestBusStop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        <state relative-caret-position="609">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#357#358#0" expanded="true" />
@@ -371,17 +382,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestBus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="318">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
           <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
           </folding>
         </state>
       </provider>

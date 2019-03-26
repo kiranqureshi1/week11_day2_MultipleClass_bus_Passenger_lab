@@ -22,6 +22,11 @@ public class BusStop {
         this.queue.remove(person);
     }
 
+    public Person removePersonFromQueueToBus(){
+        return this.queue.remove(0);
+    }
+
+
 
 
 }
