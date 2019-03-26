@@ -41,7 +41,7 @@ public class TestBus {
         Person person2 = new Person();
         busStop.addPersonToQueue(person1);
         busStop.addPersonToQueue(person2);
-        bus.pickUp(busStop);
+        bus.pickUp(busStop, person2);
         assertEquals(1, bus.getPassengers());
         assertEquals(1,busStop.getQueueCount());
     }
